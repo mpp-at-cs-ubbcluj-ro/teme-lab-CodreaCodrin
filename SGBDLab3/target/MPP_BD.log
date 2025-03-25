@@ -1,0 +1,201 @@
+11 Mar 2025 16:59:02,849 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 16:59:02,868 TRACE ro.mpp2024.CarsDBRepository 36 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 16:59:02,869 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 16:59:02,869 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 16:59:02,870 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 16:59:02,871 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 16:59:02,871 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 16:59:02,875 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 16:59:02,878 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 17:04:33,693 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 17:04:33,711 TRACE ro.mpp2024.CarsDBRepository 36 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:04:33,711 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:04:33,712 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:04:33,712 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 17:04:33,713 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:04:33,713 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:04:33,716 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 17:04:33,717 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 17:05:39,956 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 17:05:39,979 TRACE ro.mpp2024.CarsDBRepository 36 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:05:39,980 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:05:39,980 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:05:39,981 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 17:05:39,981 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:05:39,982 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:05:39,985 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 17:05:39,987 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 17:06:07,235 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 17:06:07,254 TRACE ro.mpp2024.CarsDBRepository 36 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:06:07,255 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:06:07,255 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:06:07,256 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 17:06:07,257 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:06:07,257 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:06:07,260 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 17:06:07,262 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 17:06:50,190 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 17:06:50,211 TRACE ro.mpp2024.CarsDBRepository 36 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:06:50,211 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:06:50,211 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:06:50,213 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 17:06:50,214 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:06:50,215 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:06:50,538 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:06:50,559 TRACE ro.mpp2024.CarsDBRepository 43 add - saved 1 instances
+11 Mar 2025 17:06:50,560 TRACE ro.mpp2024.CarsDBRepository 49 add - Exit
+11 Mar 2025 17:06:50,560 TRACE ro.mpp2024.CarsDBRepository 59 findAll - Enter
+11 Mar 2025 17:06:50,560 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:06:50,561 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:06:50,561 TRACE ro.mpp2024.CarsDBRepository 79 findAll - Exit
+11 Mar 2025 17:13:33,595 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 17:13:33,614 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:13:33,615 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:13:33,616 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:13:33,616 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 17:13:33,617 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:13:33,618 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:13:33,934 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:13:33,945 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+11 Mar 2025 17:13:33,945 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+11 Mar 2025 17:13:33,946 TRACE ro.mpp2024.CarsDBRepository 102 findAll - Enter
+11 Mar 2025 17:13:33,946 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:13:33,946 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:13:33,947 TRACE ro.mpp2024.CarsDBRepository 122 findAll - Exit
+11 Mar 2025 17:13:33,948 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+11 Mar 2025 17:13:33,948 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:13:33,949 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:13:33,950 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit
+11 Mar 2025 17:16:05,086 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 17:16:05,105 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:16:05,106 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:16:05,106 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:16:05,107 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 17:16:05,108 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:16:05,108 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:16:05,392 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:16:05,413 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+11 Mar 2025 17:16:05,414 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+11 Mar 2025 17:16:05,414 TRACE ro.mpp2024.CarsDBRepository 102 findAll - Enter
+11 Mar 2025 17:16:05,415 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:16:05,416 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:16:05,417 TRACE ro.mpp2024.CarsDBRepository 122 findAll - Exit
+11 Mar 2025 17:16:05,417 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+11 Mar 2025 17:16:05,418 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:16:05,418 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:16:05,419 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit
+11 Mar 2025 17:25:51,717 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 17:25:51,735 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 17:25:51,736 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:25:51,736 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 17:25:51,737 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 17:25:51,738 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 17:25:51,738 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 17:25:52,049 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:25:52,059 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+11 Mar 2025 17:25:52,059 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+11 Mar 2025 17:25:52,060 TRACE ro.mpp2024.CarsDBRepository 116 findAll - Enter
+11 Mar 2025 17:25:52,060 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:25:52,061 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:25:52,061 TRACE ro.mpp2024.CarsDBRepository 136 findAll - Exit
+11 Mar 2025 17:25:52,063 TRACE ro.mpp2024.CarsDBRepository 97 update - Enter saving task Id=0 TeslaGunoi Model S Gunoi 2024 
+11 Mar 2025 17:25:52,063 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:25:52,064 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:25:52,070 TRACE ro.mpp2024.CarsDBRepository 105 update - saved 1 instances
+11 Mar 2025 17:25:52,071 TRACE ro.mpp2024.CarsDBRepository 111 update - Exit
+11 Mar 2025 17:25:52,071 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+11 Mar 2025 17:25:52,072 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 17:25:52,072 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 17:25:52,073 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit
+11 Mar 2025 18:00:13,823 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 18:00:13,844 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 18:00:13,845 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:13,845 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:00:13,845 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 18:00:13,846 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:00:13,847 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:00:14,166 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:14,179 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+11 Mar 2025 18:00:14,179 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+11 Mar 2025 18:00:14,180 TRACE ro.mpp2024.CarsDBRepository 116 findAll - Enter
+11 Mar 2025 18:00:14,180 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:14,181 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:14,182 TRACE ro.mpp2024.CarsDBRepository 136 findAll - Exit
+11 Mar 2025 18:00:14,183 TRACE ro.mpp2024.CarsDBRepository 97 update - Enter saving task Id=0 TeslaGunoi Model S Gunoi 2024 
+11 Mar 2025 18:00:14,183 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:14,183 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:14,185 TRACE ro.mpp2024.CarsDBRepository 105 update - saved 1 instances
+11 Mar 2025 18:00:14,185 TRACE ro.mpp2024.CarsDBRepository 111 update - Exit
+11 Mar 2025 18:00:14,186 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+11 Mar 2025 18:00:14,186 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:14,186 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:14,187 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit
+11 Mar 2025 18:00:58,491 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 18:00:58,510 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 18:00:58,511 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:58,511 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:00:58,512 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 18:00:58,513 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:00:58,513 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:00:58,801 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:58,812 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+11 Mar 2025 18:00:58,813 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+11 Mar 2025 18:00:58,813 TRACE ro.mpp2024.CarsDBRepository 116 findAll - Enter
+11 Mar 2025 18:00:58,814 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:58,814 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:58,815 TRACE ro.mpp2024.CarsDBRepository 136 findAll - Exit
+11 Mar 2025 18:00:58,815 TRACE ro.mpp2024.CarsDBRepository 97 update - Enter saving task Id=0 TeslaGunoi Model S Gunoi 2024 
+11 Mar 2025 18:00:58,815 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:58,816 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:58,816 TRACE ro.mpp2024.CarsDBRepository 105 update - saved 1 instances
+11 Mar 2025 18:00:58,817 TRACE ro.mpp2024.CarsDBRepository 111 update - Exit
+11 Mar 2025 18:00:58,817 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+11 Mar 2025 18:00:58,818 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:00:58,818 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:00:58,819 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit
+11 Mar 2025 18:01:47,506 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+11 Mar 2025 18:01:47,526 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+11 Mar 2025 18:01:47,527 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:01:47,527 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:01:47,528 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+11 Mar 2025 18:01:47,529 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:01:47,530 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:01:47,868 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:01:47,879 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+11 Mar 2025 18:01:47,879 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+11 Mar 2025 18:01:47,880 TRACE ro.mpp2024.CarsDBRepository 116 findAll - Enter
+11 Mar 2025 18:01:47,881 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:01:47,881 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:01:47,882 TRACE ro.mpp2024.CarsDBRepository 136 findAll - Exit
+11 Mar 2025 18:01:47,883 TRACE ro.mpp2024.CarsDBRepository 97 update - Enter saving task Id=0 TeslaGunoiiiiii Model S Gunoi 2024 
+11 Mar 2025 18:01:47,883 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:01:47,884 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:01:47,891 TRACE ro.mpp2024.CarsDBRepository 105 update - saved 1 instances
+11 Mar 2025 18:01:47,891 TRACE ro.mpp2024.CarsDBRepository 111 update - Exit
+11 Mar 2025 18:01:47,892 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+11 Mar 2025 18:01:47,892 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:01:47,893 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+11 Mar 2025 18:01:47,894 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit
+25 Mar 2025 17:00:31,164 INFO  ro.mpp2024.CarsDBRepository 18 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db} 
+25 Mar 2025 17:00:31,228 TRACE ro.mpp2024.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019 
+25 Mar 2025 17:00:31,228 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2025 17:00:31,228 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+25 Mar 2025 17:00:31,228 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C://AlpineStudio//MPP//MPPSQLLiteDataBase//cars.db
+25 Mar 2025 17:00:31,228 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+25 Mar 2025 17:00:31,228 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+25 Mar 2025 17:00:31,559 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+25 Mar 2025 17:00:31,565 TRACE ro.mpp2024.CarsDBRepository 86 add - saved 1 instances
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.CarsDBRepository 92 add - Exit
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.CarsDBRepository 116 findAll - Enter
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.CarsDBRepository 136 findAll - Exit
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.CarsDBRepository 97 update - Enter saving task Id=0 TeslaGunoiiiiii Model S Gunoi 2024 
+25 Mar 2025 17:00:31,571 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2025 17:00:31,575 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+25 Mar 2025 17:00:31,575 TRACE ro.mpp2024.CarsDBRepository 105 update - saved 1 instances
+25 Mar 2025 17:00:31,575 TRACE ro.mpp2024.CarsDBRepository 111 update - Exit
+25 Mar 2025 17:00:31,577 TRACE ro.mpp2024.CarsDBRepository 24 findByManufacturer - Enter
+25 Mar 2025 17:00:31,577 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+25 Mar 2025 17:00:31,577 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4ee203eb)
+25 Mar 2025 17:00:31,579 TRACE ro.mpp2024.CarsDBRepository 45 findByManufacturer - Exit

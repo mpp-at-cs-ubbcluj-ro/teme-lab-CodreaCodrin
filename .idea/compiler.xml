@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="GuiLab4" target="23" />
+      <module name="GuiLab4.main" target="23" />
+      <module name="GuiLab4.test" target="23" />
       <module name="SGBDLab3" target="23" />
       <module name="SGBDLab3.main" target="23" />
       <module name="SGBDLab3.test" target="23" />
