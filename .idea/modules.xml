@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuiLab4.iml" filepath="$PROJECT_DIR$/GuiLab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuiLab4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GuiLab4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuiLab4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GuiLab4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulLab1/ModulLab1.iml" filepath="$PROJECT_DIR$/ModulLab1/ModulLab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SGBDLab3.iml" filepath="$PROJECT_DIR$/SGBDLab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SGBDLab3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SGBDLab3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SGBDLab3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SGBDLab3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartGradleLab2.iml" filepath="$PROJECT_DIR$/StartGradleLab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradleLab2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradleLab2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradleLab2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradleLab2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-CodreaCodrin.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-CodreaCodrin.iml" />
+    </modules>
+  </component>
+</project>
